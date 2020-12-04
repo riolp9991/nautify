@@ -1,0 +1,99 @@
+#banner_promos,
+#header,
+header {
+    display: none;
+}
+
+body {
+    background: linear-gradient(26deg, rgb(98, 191, 235), rgb(134, 243, 210));
+}
+
+.contenedor-new {
+    display: grid;
+    font-size: 14px;
+    place-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-image: "";
+    padding-top: 0;
+}
+
+.contenedor-new .blq {
+    box-shadow: 2px 2px 16px rgba(0, 0, 0, 0.3);
+}
+
+.new-title {
+    padding: 10px;
+    background-color: rgb(248, 136, 44);
+    color: #fff;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.contenedor-new .blq_int.clearfix {
+    padding: 15px;
+}
+
+.new-input {
+    padding: 5px 10px;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 15px;
+    border: 1px solid lightgray;
+    outline: none;
+}
+
+form#formulario {
+    margin: 0;
+}
+
+form label {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+}
+
+input.btn.new-input {
+    width: auto;
+    cursor: pointer;
+    background: rgb(29, 158, 243);
+    padding: 5px 10px;
+    border-radius: 15px;
+    color: white;
+    font-weight: 400;
+    margin: 6px 10px 6px 0px;
+    transition: 0.3s;
+}
+
+input.btn.new-input:hover {
+    background: rgb(23, 110, 240);
+}
+
+a {
+    display: none;
+}
+
+.vnc-new {
+    display: flex;
+    margin-top: 8px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.vnc-new a {
+    margin-right: 0;
+}
+
+form a {
+    display: inline-block;
+    margin-top: auto 15px;
+    text-decoration: none;
+    color: rgb(43, 55, 82);
+    transition: 0.3s;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+form a:hover {
+    color: rgb(13, 64, 158);
+}
