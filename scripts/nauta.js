@@ -1,6 +1,6 @@
 const background = document.querySelector("#contenedor");
 
-console.log("Working Extension");
+// console.log("Working Extension");
 background.classList.add("contenedor-new");
 
 background.id = "#contenedor-new";
