@@ -2,6 +2,8 @@
 
 Si estas cansado de la interfaz anticuada del portal de inicio de sesion de la plataforma de internet de **ETECSA**, deberias de entonces probar esta extension para Chrome.
 
+![Nautify Image](https://github.com/riolp9991/nautify/blob/main/screenshot.png)
+
 # Como instalar
 
 Por el momento no la puedes encontrar en la tienda de extensiones de chrome, pero puedes seguir los pasos siguientes para instalarla manualmente
